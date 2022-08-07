@@ -4,9 +4,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <h1>
       The Nounish Agency
-      </header>
+      </h1>
     </div>
   );
 }
