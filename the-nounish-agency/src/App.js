@@ -5,10 +5,10 @@ import Home from './components/home/Home';
 function App() {
   return (
     <div className="App">
-      <Home/>
-      <h1>
-      The Nounish Agency
+      <h1 className='header-one'>
+        The Nounish Agency
       </h1>
+      <Home/>
     </div>
   );
 }
