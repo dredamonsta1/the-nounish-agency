@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <h1 className='header-one'>
-        The Nounish Agency
+        INICIO
       </h1>
       <Home/>
     </div>
