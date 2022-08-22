@@ -8,9 +8,9 @@ function NavBar() {
     return (
         <>
             <nav id="navbar-example2" class="navbar bg-light px-3 mb-3">
-                <a class="navbar-brand" href="#">Navbar</a>
+                <a class="navbar-brand" href="#">INICIO</a>
                 <ul class="nav nav-pills">
-                    <li class="nav-item">
+                    <li class="nav-item-home">
                         <a class="nav-link" href="#scrollspyHeading1">Home</a>
                     </li>
                     <li class="nav-item">
