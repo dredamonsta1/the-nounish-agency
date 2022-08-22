@@ -7,6 +7,8 @@
 
 .navbar-brand{
     list-style: none;
+    color: #B0CFDC;
+
 }
 
 .navbar-brand{
@@ -25,6 +27,15 @@
 
 .nav-item-home{
     margin-right: 10px;
+    
+}
+
+.nav-link-home{
+    color: #B0CFDC;
+}
+
+.nav-link-about{
+    color: #B0CFDC;
 }
 
 a:link { text-decoration: none; }

@@ -11,10 +11,10 @@ function NavBar() {
                 <a class="navbar-brand" href="#">INICIO</a>
                 <ul class="nav nav-pills">
                     <li class="nav-item-home">
-                        <a class="nav-link" href="#scrollspyHeading1">Home</a>
+                        <a class="nav-link-home" href="#scrollspyHeading1">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#scrollspyHeading2">About</a>
+                        <a class="nav-link-about" href="#scrollspyHeading2">About</a>
                     </li>
                     
                 </ul>
