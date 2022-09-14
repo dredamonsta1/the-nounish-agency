@@ -10,13 +10,16 @@ function NavBar() {
     return (
         <>
             <nav id="navbar-example2" class="navbar bg-light px-3 mb-3">
-                <a class="navbar-brand" href="#">INICIO</a>
-                <ul class="nav nav-pills">
-                    <li class="nav-item-home">
-                        <a class="nav-link-home" href="#scrollspyHeading1">Home</a>
+                <a className="navbar-brand" href="#">INICIO</a>
+                <ul className="nav nav-pills">
+                    <li className="nav-item-home">
+                        <a className="nav-link-home" href="#scrollspyHeading1">Home</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link-about" href="#scrollspyHeading2">About</a>
+                    <li className="nav-item">
+                        <a className="nav-link-about" href="#scrollspyHeading2">About</a>
+                    </li>
+                    <li className="merch-link" href="#">
+                        <a className="nav-link-merch" href="#scrollspyHeading3">Merch</a>
                     </li>
                     
                 </ul>
@@ -28,7 +31,7 @@ function NavBar() {
                 <h4 id="scrollspyHeading2">About</h4>
                 <About />
                
-                <h4 id="scrollspyHeading3">Third heading</h4>
+                <h4 id="scrollspyHeading3">Merch</h4>
                 <About />
                 <h4 id="scrollspyHeading4">Fourth heading</h4>
                 <p>...</p>
