@@ -7,6 +7,9 @@ function Home(){
     return(
         <>
         <h1>Home</h1>
+        <div className="home-jtron">
+        <h1>hype</h1>
+        </div>
         <p>First heading
         This is some placeholder content for the scrollspy page. Note that as you scroll down the page, the appropriate navigation link is highlighted. It's repeated throughout the component example. We keep adding some more example copy here to emphasize the scrolling and highlighting.
         
