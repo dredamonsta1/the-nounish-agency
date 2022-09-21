@@ -1,5 +1,7 @@
 .home-jtron{
+    /* display: flex; */
+    flex-direction: column;
     background-color: chartreuse;
-    width: 500vh;
-    height: 100vh;
+    /* width: 500px; */
+    /* height: 500px; */
 }

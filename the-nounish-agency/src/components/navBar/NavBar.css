@@ -33,9 +33,7 @@
 .nav-pills{
     display: flex;
     justify-content: space-between;
-    /* align-items: center; */
-    /* align-items: space-between; */
-    background-color: green;
+     width: 150px;
 
 }
 
