@@ -2,6 +2,7 @@ import React from "react";
 import "./NavBar.css";
 import About from "../about/About";
 import Home from "../home/Home";
+import Merch from "../merch/Merch"
 
 
 
@@ -32,7 +33,7 @@ function NavBar() {
                 <About />
                
                 <h4 id="scrollspyHeading3">Merch</h4>
-                <About />
+                <Merch />
                 <h4 id="scrollspyHeading4">Fourth heading</h4>
                 <p>...</p>
                 <h4 id="scrollspyHeading5">Fifth heading</h4>

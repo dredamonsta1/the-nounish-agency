@@ -1,7 +1,12 @@
-.home-jtron{
+/* .home-jtron{
     display: flex;
     flex-direction: column;
     background-color: #B0CFDC;
     width: 100%;
     height: 500px;
+} */
+
+.home-func {
+    display: flex;
+    background-color: #B0CFDC;
 }

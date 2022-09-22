@@ -5,7 +5,7 @@ import React from "react";
 
 function Home(){
     return(
-        <>
+        <div className="home-func">
         <h1>the first w3 w2 consultancy Agency</h1>
         <div className="home-jtron">
         <h1>hype</h1>
@@ -24,7 +24,7 @@ function Home(){
         
         Fifth heading
         This is some placeholder content for the scrollspy page. Note that as you scroll down the page, the appropriate navigation link is highlighted. It's repeated throughout the component example. We keep adding some more example copy here to emphasize the scrolling and highlighting.</p>
-        </>
+        </div>
     )
 }
 
