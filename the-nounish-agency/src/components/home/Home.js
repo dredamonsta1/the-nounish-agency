@@ -6,7 +6,7 @@ import React from "react";
 function Home(){
     return(
         <>
-        <h1>Home</h1>
+        <h1>the first w3 w2 consultancy Agency</h1>
         <div className="home-jtron">
         <h1>hype</h1>
         </div>
