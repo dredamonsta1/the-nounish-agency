@@ -1,12 +1,15 @@
 // import logo from './logo.svg';
+import React, { Fragment } from 'react';
 import './App.css';
 import Home from './components/homeContainer/HomeContainer';
 
 function App() {
   return (
-    <div className="App">
-      <Home/>
-    </div>
+    <React.Fragment>
+      <div className="App">
+        <Home/>
+      </div>
+    </React.Fragment>
   );
 }
 

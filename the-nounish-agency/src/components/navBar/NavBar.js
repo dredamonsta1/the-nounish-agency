@@ -7,6 +7,8 @@ import Merch from "../merch/Merch"
 
 
 
+
+
 function NavBar() {
     return (
         <>
@@ -25,6 +27,8 @@ function NavBar() {
                     
                 </ul>
             </nav>
+
+
             <div data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-root-margin="0px 0px -40%" data-bs-smooth-scroll="true" class="scrollspy-example bg-light p-3 rounded-2" tabindex="0">
                 <h4 id="scrollspyHeading1">Home</h4>
                 <Home />
