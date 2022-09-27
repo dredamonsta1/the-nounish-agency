@@ -65,3 +65,11 @@ a:hover { text-decoration: none; }
 
 
 a:active { text-decoration: none; }
+
+
+.home-section {
+    margin: 0px;
+    background-color: black;
+
+
+}
